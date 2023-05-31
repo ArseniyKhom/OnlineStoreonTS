@@ -1,0 +1,28 @@
+li {
+    list-style: none;
+}
+
+.btn-basket {
+    margin-right: 15px;
+}
+
+.btn-minus {
+    margin-left: 15px;
+}
+
+.col-xs-6 {
+    display: flex;
+}
+
+.thumbnail {
+    width: 400px;
+    height: 500px;
+    justify-content: space-between;
+    flex-direction: column;
+    display: flex;
+}
+
+.btn-primary {
+    justify-content: flex-start;
+    display: flex;
+}
